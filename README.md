@@ -11,7 +11,7 @@ It delivers a smooth shopping experience with category browsing,
 detailed product pages, and cart management --- all optimized for
 performance and SEO.
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
 
 # ✨ Live Demo
 
